@@ -1,0 +1,2 @@
+# Add ads.adsenseClientId in site.config.json once AdSense approves this site,
+# then this file will auto-populate the required ads.txt entry.
